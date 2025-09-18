@@ -1,0 +1,18 @@
+{
+  "name": "com.uken.actionqueue",
+  "displayName": "ActionQueue",
+  "version": "1.0.0",
+  "description": "A lightweight, generic action sequencer for Unity.",
+  "keywords": [
+    "uken",
+    "actionqueue",
+    "action",
+    "queue",
+    "sequencer",
+    "animation"
+  ],
+  "category": "Utilities",
+  "repository": "https://github.com/uken/action-queue-unity",
+  "license": "Apache-2.0",
+  "licensesUrl": "https://github.com/uken/action-queue-unity/blob/master/LICENSE"
+}
